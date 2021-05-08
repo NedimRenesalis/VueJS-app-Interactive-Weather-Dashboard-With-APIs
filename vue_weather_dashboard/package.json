@@ -14,6 +14,7 @@
     "babel": "^6.23.0",
     "babel-cli": "^6.26.0",
     "babel-polyfill": "^6.26.0",
+    "fusioncharts": "^3.17.0",
     "vue": "^2.5.11"
   },
   "browserslist": [
